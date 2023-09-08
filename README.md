@@ -12,6 +12,3 @@ this is a test for use github
 
 # 测试4
 这是在mac上的第四次测
-
-# 测试5
-这是最新的测试5
